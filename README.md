@@ -119,10 +119,6 @@ Writing to CSV:
 
 Once all the necessary records are collected in the list, the script writes this data to a CSV file. It creates the CSV file if it does not exist or appends to it if it already exists. The header row and the data rows are written using the CSV writer.
 
-What’s remaining (Jay) ? =>  This is a base mechanism that need further ameliorations by making sure it works as expected with the programmation of frequency of the scraping (2 times a week) with Linux & implementation of error handling that can happen during the scraping process
-
-
-To planify the frequency to run the script, use Linux.
 
 
 
